@@ -1,0 +1,32 @@
+{
+  "buttons": [
+    {
+      "actionText": "/action",
+      "caption": "caption1",
+      "buttons": [
+        {
+          "text": "BtnText",
+          "call": "call1Query"
+        },
+        {
+          "text": "BtnText",
+          "call": "call1Query1"
+        }
+      ]
+    },
+    {
+      "actionText": "/action2",
+      "caption": "caption1",
+      "buttons": [
+        {
+          "text": "BtnText",
+          "call": "call1Query"
+        },
+        {
+          "text": "BtnText",
+          "call": "call1Query1"
+        }
+      ]
+    }
+  ]
+}
