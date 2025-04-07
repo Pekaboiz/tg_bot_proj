@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\TelegramServiceHandler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\telegrambot\\callbacks\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:telegrambot\\callbacks\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\telegrambot\\configuraton\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:telegrambot\\configuraton\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BotConfiguration.cs",
+              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Configuraton\\BotConfiguration.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Configuraton\\BotConfiguration.cs",
+              "ToolTip": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Configuraton\\BotConfiguration.cs",
+              "RelativeToolTip": "TelegramBot\\Configuraton\\BotConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:12:33.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Handlers.cs",
+              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Callbacks\\Handlers.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Callbacks\\Handlers.cs",
+              "ToolTip": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Callbacks\\Handlers.cs*",
+              "RelativeToolTip": "TelegramBot\\Callbacks\\Handlers.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwGEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:12:05.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

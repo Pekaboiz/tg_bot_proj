@@ -15,7 +15,7 @@ namespace TelegramServiceHandler
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            BotController botController = new BotController(@"path", "token", "config.json");
+            BotController botController = new BotController(@"CONFIG", "TOKEN", "config.json");
             botController.TelegramConfig();
 
             try
@@ -37,7 +37,7 @@ namespace TelegramServiceHandler
                         botController.TelegramStart();
                     }
 
-                    await Task.Delay((600000), stoppingToken);
+                    await Task.Delay(600000, stoppingToken);
                 }
                 catch (Exception ex)
                 {

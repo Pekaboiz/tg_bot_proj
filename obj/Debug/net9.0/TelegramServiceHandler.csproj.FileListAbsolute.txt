@@ -109,6 +109,6 @@ D:\Git\TelegramServiceHandler\obj\Debug\net9.0\refint\TelegramServiceHandler.dll
 D:\Git\TelegramServiceHandler\obj\Debug\net9.0\TelegramServiceHandler.pdb
 D:\Git\TelegramServiceHandler\obj\Debug\net9.0\TelegramServiceHandler.genruntimeconfig.cache
 D:\Git\TelegramServiceHandler\obj\Debug\net9.0\ref\TelegramServiceHandler.dll
-D:\Git\TelegramServiceHandler\bin\Debug\net9.0\btn_config.json
 D:\Git\TelegramServiceHandler\bin\Debug\net9.0\config.json
+D:\Git\TelegramServiceHandler\bin\Debug\net9.0\btn_config.json
 D:\Git\TelegramServiceHandler\bin\Debug\net9.0\log.json
