@@ -1,0 +1,12 @@
+09.04.2025 0:38:37: 09.04.2025 0:38:37 - StartReceiving already called. Skipping...
+09.04.2025 0:38:49: JSON: {
+  "tasks": [
+    {
+      "title": "YouTube",
+      "date": "09.04.2025",
+      "time_beg": "",
+      "time_end": "",
+      "description": ""
+    }
+  ]
+}

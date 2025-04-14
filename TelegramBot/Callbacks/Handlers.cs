@@ -93,17 +93,17 @@ namespace TelegramServiceHandler.TelegramBot
                     _ => await _ollamaService.GetAIResponseAsync(message.Text)
                 };
 
-                var (userText, jsonText) = _ollamaService.SplitAiResponse(responseText);
+                //var (userText, jsonText) = _ollamaService.SplitAiResponse(responseText);
 
-                if (!string.IsNullOrEmpty(userText))
+                if (!string.IsNullOrEmpty(responseText))
                 {
-                    await client.SendMessage(chatId, userText, cancellationToken: token);
+                    await client.SendMessage(chatId, responseText, cancellationToken: token);
                 }
 
-                if (!string.IsNullOrEmpty(jsonText))
+                /*if (!string.IsNullOrEmpty(jsonText))
                 {
                     tgLog.Log($"JSON: {jsonText}");
-                }
+                }*/
                 
             }
         }

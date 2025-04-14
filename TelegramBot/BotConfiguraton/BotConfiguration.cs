@@ -28,7 +28,6 @@ namespace TelegramServiceHandler
         {
             if (isReceivingStarted)
             {
-                tgLog.Log($"{DateTime.Now} - StartReceiving already called. Skipping...");
                 return;
             }
 

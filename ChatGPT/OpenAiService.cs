@@ -61,5 +61,6 @@ namespace TelegramServiceHandler.ChatGPT
 
             return (aiResponse, null); 
         }
+
     }
 }

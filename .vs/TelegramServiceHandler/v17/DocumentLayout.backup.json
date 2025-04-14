@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Git\\TelegramServiceHandler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\telegrambot\\botconfiguraton\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:telegrambot\\botconfiguraton\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\telegrambot\\callbacks\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:telegrambot\\callbacks\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\telegrambot\\configuraton\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:telegrambot\\configuraton\\botconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\chatgpt\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:chatgpt\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|d:\\git\\telegramservicehandler\\promts\\promtbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD98041-58F2-5AB2-9204-527BBF7BBB43}|TelegramServiceHandler.csproj|solutionrelative:promts\\promtbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +58,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BotConfiguration.cs",
-              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Configuraton\\BotConfiguration.cs",
-              "RelativeDocumentMoniker": "TelegramBot\\Configuraton\\BotConfiguration.cs",
-              "ToolTip": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Configuraton\\BotConfiguration.cs",
-              "RelativeToolTip": "TelegramBot\\Configuraton\\BotConfiguration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PromtBase.cs",
+              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\Promts\\PromtBase.cs",
+              "RelativeDocumentMoniker": "Promts\\PromtBase.cs",
+              "ToolTip": "D:\\Git\\TelegramServiceHandler\\Promts\\PromtBase.cs",
+              "RelativeToolTip": "Promts\\PromtBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T18:12:33.791Z",
+              "WhenOpened": "2025-04-08T16:33:20.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAiService.cs",
+              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\ChatGPT\\OpenAiService.cs",
+              "RelativeDocumentMoniker": "ChatGPT\\OpenAiService.cs",
+              "ToolTip": "D:\\Git\\TelegramServiceHandler\\ChatGPT\\OpenAiService.cs",
+              "RelativeToolTip": "ChatGPT\\OpenAiService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:47:41.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handlers.cs",
+              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Callbacks\\Handlers.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Callbacks\\Handlers.cs",
+              "ToolTip": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Callbacks\\Handlers.cs",
+              "RelativeToolTip": "TelegramBot\\Callbacks\\Handlers.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:12:05.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "D:\\Git\\TelegramServiceHandler\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:21:36.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Handlers.cs",
-              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Callbacks\\Handlers.cs",
-              "RelativeDocumentMoniker": "TelegramBot\\Callbacks\\Handlers.cs",
-              "ToolTip": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\Callbacks\\Handlers.cs*",
-              "RelativeToolTip": "TelegramBot\\Callbacks\\Handlers.cs*",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAYwGEAAAAYAAAAAAAAAA==",
+              "Title": "BotConfiguration.cs",
+              "DocumentMoniker": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\BotConfiguraton\\BotConfiguration.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\BotConfiguraton\\BotConfiguration.cs",
+              "ToolTip": "D:\\Git\\TelegramServiceHandler\\TelegramBot\\BotConfiguraton\\BotConfiguration.cs",
+              "RelativeToolTip": "TelegramBot\\BotConfiguraton\\BotConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T18:12:05.053Z",
+              "WhenOpened": "2025-04-07T18:12:33.791Z",
               "EditorCaption": ""
             }
           ]

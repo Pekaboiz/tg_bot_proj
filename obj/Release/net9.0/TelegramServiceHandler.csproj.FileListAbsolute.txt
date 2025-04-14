@@ -111,3 +111,4 @@ D:\Git\TelegramServiceHandler\obj\Release\net9.0\TelegramServiceHandler.genrunti
 D:\Git\TelegramServiceHandler\obj\Release\net9.0\ref\TelegramServiceHandler.dll
 D:\Git\TelegramServiceHandler\bin\Release\net9.0\btn_config.json
 D:\Git\TelegramServiceHandler\bin\Release\net9.0\config.json
+D:\Git\TelegramServiceHandler\bin\Release\net9.0\log.json

@@ -15,7 +15,7 @@ namespace TelegramServiceHandler
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            BotController botController = new BotController(@"CONFIG", "TOKEN", "config.json");
+            BotController botController = new BotController(@"path", "token", "config.json");
             botController.TelegramConfig();
 
             try
